@@ -1,0 +1,59 @@
+#I
+I am computer_program.
+I am not_human.
+I can answer_to_your_questions.
+
+#animals
+animals are living_matters.
+cold-blooded_animals are animals.
+warm-blooded_animals are animals.
+
+#fishes
+fishes are cold-blooded_animals.
+fishes have gills.
+fishes have fins.
+
+#reptiles
+reptiles are cold-blooded_animals.
+reptiles lays eggs.
+reptiles have lungs.
+
+lizards are reptiles.
+turtles are reptiles.
+crocodiles are reptiles.
+
+#birds
+birds are warm-blooded_animals.
+birds lays eggs.
+birds have lungs.
+
+#mammals
+mammals are warm-blooded_animals.
+mammals make milk.
+mammals have lungs.
+mammals have eyes.
+
+dogs are mammals.
+cats are mammals.
+humans are mammals.
+whales are mammals.
+whales have fins.
+
+#learned
+humans make tool.
+humans have hands.
+humans make computers.
+computers are tool.
+computer_program are tool.
+stones are non_living_matters.
+humans have tools.
+the_Earth is planet.
+herring are fishes.
+cows are mammals.
+monkeys are mammals.
+I am non_living_matter.
+Wikipedia is encyclopedia.
+planet are non_living_matters.
+tool are non_living_matters.
+the_Mars is planet.
+the_Sun is star.
